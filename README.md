@@ -23,7 +23,7 @@ As you can see we have an adventure ahead, LETS GET TO IT!! Enjoy!!
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Docker</b> 
+- <b>Ansible</b> 
 
 
 <h2>Environments Used </h2>
