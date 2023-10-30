@@ -1,6 +1,6 @@
 <h1>Automation of Linux Administration Tasks with Ansible</h1>
 
- <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
+ <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this project, we will learn about Docker containers and the benefits of these packages in deploying applications. First we will explain what are containers and the process in how they work. Then we will begin practical application with Labs walkthroughs of the various steps below:<br/>
@@ -71,6 +71,8 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+-->
 
 <!--
  ```diff
